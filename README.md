@@ -7,7 +7,9 @@ Datasets are almost never complete and this can introduce various biases to your
 Please run check_env.ipynb. It checks the versions of your python and some packages (like pandas, sklearn, xgboost). If the notebook returns all OK, you should be able to run missing_data_in_supervised_ML.ipynb without issues. If some FAILs are returned, you need to install/update those packages first. 
 
 You can recreate the python environment using the env.yml conda environment file by running these two commands in the terminal:
+
 `conda env create -n env -f env.yml`
+
 `conda activate env`
 
 ## Description
