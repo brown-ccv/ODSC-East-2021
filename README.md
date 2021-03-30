@@ -12,6 +12,8 @@ You can recreate the python environment using the env.yml conda environment file
 
 `conda activate env`
 
+You should be able to start jupyter-notebook now and run the check_env.ipynb.
+
 ## Description
 
 `missing_data_in_supervised_ML.ipynb` is the main notebook, the slides of the presentation. The notebook is also available in pdf format for convenience.
